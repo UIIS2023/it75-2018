@@ -1,0 +1,148 @@
+2023-12-21 18:22:05 - Draw: Point created at (482,162). Shape added. 
+2023-12-21 18:22:05 - Draw: Point created at (612,165). Shape added. 
+2023-12-21 18:22:06 - Draw: Point created at (548,253). Shape added. 
+2023-12-21 18:22:15 - Draw: Point created at (225,137). Shape added. 
+2023-12-21 18:22:16 - Draw: Point created at (371,153). Shape added. 
+2023-12-21 18:22:17 - Draw: Point created at (352,281). Shape added. 
+2023-12-22 18:22:46 - Draw: Point created at (154,32). Shape added. 
+2023-12-22 18:22:46 - Draw: Point created at (248,67). Shape added. 
+2023-12-22 18:22:47 - Draw: Point created at (422,50). Shape added. 
+2023-12-22 18:22:47 - Draw: Point created at (417,91). Shape added. 
+2023-12-22 18:22:48 - Draw: Point created at (323,88). Shape added. 
+2023-12-22 18:22:48 - Draw: Point created at (332,54). Shape added. 
+2023-12-22 18:22:51 - Selected: Shape at coordinates (155, 32) has been selected. 
+2023-12-22 18:22:51 - Selected: Shape at coordinates (249, 66) has been selected. 
+2023-12-22 18:22:52 - Selected: Shape at coordinates (322, 89) has been selected. 
+2023-12-22 18:22:54 - Selected: Shape at coordinates (331, 53) has been selected. 
+2023-12-22 18:22:55 - Selected: Shape at coordinates (419, 91) has been selected. 
+2023-12-22 18:22:56 - Selected: Shape at coordinates (420, 49) has been selected. 
+2023-12-22 18:22:58 - Deleted: Point deleted. 
+2023-12-22 18:22:58 - Deleted: Point deleted. 
+2023-12-22 18:22:58 - Deleted: Point deleted. 
+2023-12-22 18:22:58 - Deleted: Point deleted. 
+2023-12-22 18:22:58 - Deleted: Point deleted. 
+2023-12-22 18:22:58 - Deleted: Point deleted. 
+2023-12-22 18:26:58 - Draw: Point created at (235,76). Shape added. 
+2023-12-22 18:26:58 - Draw: Point created at (515,157). Shape added. 
+2023-12-22 18:26:59 - Draw: Point created at (639,170). Shape added. 
+2023-12-22 18:26:59 - Draw: Point created at (380,178). Shape added. 
+2023-12-22 18:26:59 - Draw: Point created at (360,104). Shape added. 
+2023-12-22 18:26:59 - Draw: Point created at (441,85). Shape added. 
+2023-12-22 18:27:00 - Draw: Point created at (451,169). Shape added. 
+2023-12-22 18:27:00 - Draw: Point created at (402,132). Shape added. 
+2023-12-22 18:27:00 - Draw: Point created at (426,131). Shape added. 
+2023-12-22 18:27:00 - Draw: Point created at (474,133). Shape added. 
+2023-12-22 18:27:03 - Selected: Shape at coordinates (233, 75) has been selected. 
+2023-12-22 18:27:04 - Selected: Shape at coordinates (360, 103) has been selected. 
+2023-12-22 18:27:05 - Selected: Shape at coordinates (443, 83) has been selected. 
+2023-12-22 18:27:07 - Selected: Shape at coordinates (403, 133) has been selected. 
+2023-12-22 18:27:08 - Selected: Shape at coordinates (426, 131) has been selected. 
+2023-12-22 18:27:09 - Selected: Shape at coordinates (451, 168) has been selected. 
+2023-12-22 18:27:10 - Selected: Shape at coordinates (475, 132) has been selected. 
+2023-12-22 18:27:11 - Selected: Shape at coordinates (514, 157) has been selected. 
+2023-12-22 18:27:12 - Selected: Shape at coordinates (382, 178) has been selected. 
+2023-12-22 18:27:17 - Selected: Shape at coordinates (639, 173) has been selected. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:19 - Deleted: Point deleted. 
+2023-12-22 18:27:57 - Draw: Point created at (274,110). Shape added. 
+2023-12-22 18:27:57 - Draw: Point created at (351,121). Shape added. 
+2023-12-22 18:27:57 - Draw: Point created at (379,173). Shape added. 
+2023-12-22 18:27:58 - Draw: Point created at (287,198). Shape added. 
+2023-12-22 18:27:58 - Draw: Point created at (304,154). Shape added. 
+2023-12-22 18:27:59 - Draw: Point created at (350,239). Shape added. 
+2023-12-22 18:27:59 - Draw: Point created at (318,249). Shape added. 
+2023-12-22 18:27:59 - Draw: Point created at (257,236). Shape added. 
+2023-12-22 18:27:59 - Draw: Point created at (246,181). Shape added. 
+2023-12-22 18:28:00 - Draw: Point created at (252,146). Shape added. 
+2023-12-22 18:28:00 - Draw: Point created at (285,164). Shape added. 
+2023-12-22 18:28:00 - Draw: Point created at (266,196). Shape added. 
+2023-12-22 18:28:00 - Draw: Point created at (235,238). Shape added. 
+2023-12-22 18:28:01 - Draw: Point created at (301,258). Shape added. 
+2023-12-22 18:28:01 - Draw: Point created at (314,208). Shape added. 
+2023-12-22 18:28:01 - Draw: Point created at (335,189). Shape added. 
+2023-12-22 18:28:02 - Draw: Point created at (355,220). Shape added. 
+2023-12-22 18:28:02 - Draw: Point created at (326,229). Shape added. 
+2023-12-22 18:28:02 - Draw: Point created at (273,235). Shape added. 
+2023-12-22 18:28:02 - Draw: Point created at (316,214). Shape added. 
+2023-12-22 18:28:03 - Draw: Point created at (309,228). Shape added. 
+2023-12-22 18:28:03 - Draw: Point created at (291,222). Shape added. 
+2023-12-22 18:28:03 - Draw: Point created at (299,204). Shape added. 
+2023-12-22 18:28:03 - Draw: Point created at (307,181). Shape added. 
+2023-12-22 18:28:04 - Draw: Point created at (325,181). Shape added. 
+2023-12-22 18:28:04 - Draw: Point created at (356,217). Shape added. 
+2023-12-22 18:28:04 - Draw: Point created at (336,228). Shape added. 
+2023-12-22 18:28:05 - Draw: Point created at (341,210). Shape added. 
+2023-12-22 18:28:05 - Draw: Point created at (341,201). Shape added. 
+2023-12-22 18:28:05 - Draw: Point created at (328,201). Shape added. 
+2023-12-22 18:28:07 - Selected: Shape at coordinates (275, 110) has been selected. 
+2023-12-22 18:28:08 - Selected: Shape at coordinates (305, 153) has been selected. 
+2023-12-22 18:28:08 - Selected: Shape at coordinates (250, 147) has been selected. 
+2023-12-22 18:28:09 - Selected: Shape at coordinates (284, 164) has been selected. 
+2023-12-22 18:28:10 - Selected: Shape at coordinates (264, 197) has been selected. 
+2023-12-22 18:28:11 - Selected: Shape at coordinates (245, 181) has been selected. 
+2023-12-22 18:28:13 - Selected: Shape at coordinates (286, 198) has been selected. 
+2023-12-22 18:28:15 - Selected: Shape at coordinates (305, 181) has been selected. 
+2023-12-22 18:28:16 - Selected: Shape at coordinates (300, 203) has been selected. 
+2023-12-22 18:28:17 - Selected: Shape at coordinates (323, 181) has been selected. 
+2023-12-22 18:28:19 - Selected: Shape at coordinates (327, 203) has been selected. 
+2023-12-22 18:28:20 - Selected: Shape at coordinates (333, 189) has been selected. 
+2023-12-22 18:28:21 - Selected: Shape at coordinates (316, 208) has been selected. 
+2023-12-22 18:28:21 - Selected: Shape at coordinates (316, 216) has been selected. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:23 - Deleted: Point deleted. 
+2023-12-22 18:28:57 - Draw: Line created from (213, 112) to (211, 94). Shape added. 
+2023-12-22 18:28:58 - Draw: Line created from (385, 90) to (371, 151). Shape added. 
+2023-12-22 18:29:00 - Draw: Line created from (534, 96) to (527, 152). Shape added. 
+2023-12-22 18:29:01 - Draw: Line created from (642, 161) to (616, 50). Shape added. 
+2023-12-22 18:29:02 - Draw: Line created from (517, 21) to (468, 61). Shape added. 
+2023-12-22 18:29:03 - Draw: Line created from (453, 168) to (527, 222). Shape added. 
+2023-12-22 18:29:04 - Draw: Line created from (706, 221) to (615, 248). Shape added. 
+2023-12-22 18:29:45 - Draw: Donut created at (379, 116) with outer radius 43 and inner radius 22. Shape added. 
+2023-12-22 18:29:46 - Undo: Previous command undone. 
+2023-12-22 18:29:47 - Redo: Previous command redone. 
+2023-12-22 18:29:48 - Undo: Previous command undone. 
+2023-12-22 18:29:48 - Redo: Previous command redone. 
+2023-12-22 18:46:02 - Draw: Circle created at (272, 137) with radius 32. Shape added. 
+2023-12-22 18:52:12 - Draw: Point created at (403,97). Shape added. 
+2023-12-22 18:52:13 - Draw: Point created at (398,120). Shape added. 
+2023-12-22 18:52:13 - Draw: Point created at (338,196). Shape added. 
+2023-12-22 18:52:13 - Draw: Point created at (319,126). Shape added. 
+2023-12-22 18:52:14 - Draw: Point created at (541,125). Shape added. 
+2023-12-22 18:54:07 - Draw: Circle created at (278, 76) with radius 32. Shape added. 
+2023-12-22 18:54:10 - Draw: Circle created at (523, 305) with radius 243. Shape added. 
+2023-12-22 19:01:07 - Draw: Circle created at (444, 149) with radius 32. Shape added. 
+2023-12-22 19:01:08 - Draw: Circle created at (491, 295) with radius 432. Shape added. 
+2023-12-22 19:01:11 - Undo: Previous command undone. 
+2023-12-22 19:01:12 - Draw: Point created at (244,212). Shape added. 
+2023-12-22 19:01:13 - Draw: Point created at (338,243). Shape added. 
+2023-12-22 19:01:13 - Draw: Point created at (451,261). Shape added. 
+2023-12-22 19:01:14 - Draw: Point created at (454,319). Shape added. 
+2023-12-22 19:05:23 - Draw: Point created at (156,36). Shape added. 
+2023-12-22 19:05:24 - Draw: Point created at (248,88). Shape added. 
+2023-12-22 19:05:24 - Draw: Point created at (158,150). Shape added. 
+2023-12-22 19:05:24 - Draw: Point created at (80,106). Shape added. 
+2023-12-22 19:05:25 - Draw: Point created at (91,199). Shape added. 
+2023-12-22 19:05:25 - Draw: Point created at (121,260). Shape added. 
+2023-12-22 19:06:20 - Draw: Circle created at (647, 138) with radius 32. Shape added. 
+2023-12-22 19:14:44 - Draw: Donut created at (344, 161) with outer radius 23 and inner radius 11. Shape added. 
+2023-12-22 19:15:21 - Draw: Rectangle created at (415, 94) with width 23 and height 22. Shape added. 
